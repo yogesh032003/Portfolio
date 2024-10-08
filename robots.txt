@@ -1,4 +1,5 @@
 User-agent: *
 Disallow:
 
+Allow: /img/favicon/
 Sitemap: https://yogesh-nirve.vercel.app/sitemap.xml
